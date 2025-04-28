@@ -3,7 +3,7 @@
 This project demonstrates how to scrape product data from Shopee using Python and Selenium. The extracted data can be used for price comparison, product trend analysis, and e-commerce insights.
 
 ## 🔍 Features
-✅ Extract product names, prices, ratings, link to picture, number of sold,	location, product link
+✅ Extract product names, prices, ratings, link to picture, number of sold,	products review, location, product link
 
 ✅ Handle infinite scrolling and dynamic content loading with Selenium
 
